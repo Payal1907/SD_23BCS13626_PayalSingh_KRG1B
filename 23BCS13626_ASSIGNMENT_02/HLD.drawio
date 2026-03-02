@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.0">
   <diagram name="Page-1" id="kyNkuGG5Zxp20NDQZQpd">
-    <mxGraphModel dx="2587" dy="2150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3166" dy="2500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -515,12 +515,6 @@
         </mxCell>
         <mxCell id="9u4Gy8eUBUnp4WCNNFWY-224" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="Chunker&amp;nbsp;&lt;br&gt;service will &lt;br&gt;take that video" vertex="1">
           <mxGeometry height="60" width="100" x="1270" y="1120.3899999999994" as="geometry" />
-        </mxCell>
-        <mxCell id="9u4Gy8eUBUnp4WCNNFWY-225" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;KAFKA&lt;br&gt;Producer&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="78" x="1500" y="1092.5" as="geometry" />
-        </mxCell>
-        <mxCell id="9u4Gy8eUBUnp4WCNNFWY-226" edge="1" parent="1" source="9u4Gy8eUBUnp4WCNNFWY-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.021;entryY=0.458;entryDx=0;entryDy=0;entryPerimeter=0;" target="9u4Gy8eUBUnp4WCNNFWY-225">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9u4Gy8eUBUnp4WCNNFWY-227" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="Streaming Protocols:&lt;br&gt;- HLS (HTTP Live Streaming)&lt;br&gt;- DASH (Dynamic Adaptive Streaming over HTTP)" vertex="1">
           <mxGeometry height="60" width="290" x="1430" y="985" as="geometry" />
